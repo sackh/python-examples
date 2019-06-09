@@ -20,7 +20,7 @@ class SinglyLinkedList:
     """
     This class is implementation of singly linked list
     """
-    def ___init__(self):
+    def __init__(self):
         """
         Create a new singly linked list takes O(1) time
         """
